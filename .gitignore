@@ -1,0 +1,6 @@
+wp-config.php
+wp-config-sample.php
+/wp-content/debug.log
+/wp-content/upgrade/
+/wp-content/uploads/
+**/node_modules/
